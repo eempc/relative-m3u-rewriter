@@ -1,0 +1,10 @@
+D:\Google Drive\Drive folder\Visual Studio\Relative m3u rewriter\Rewrite m3u path\Rewrite m3u path\bin\Debug\Rewrite m3u path.exe.config
+D:\Google Drive\Drive folder\Visual Studio\Relative m3u rewriter\Rewrite m3u path\Rewrite m3u path\bin\Debug\Rewrite m3u path.exe
+D:\Google Drive\Drive folder\Visual Studio\Relative m3u rewriter\Rewrite m3u path\Rewrite m3u path\bin\Debug\Rewrite m3u path.pdb
+D:\Google Drive\Drive folder\Visual Studio\Relative m3u rewriter\Rewrite m3u path\Rewrite m3u path\obj\Debug\Rewrite m3u path.csprojAssemblyReference.cache
+D:\Google Drive\Drive folder\Visual Studio\Relative m3u rewriter\Rewrite m3u path\Rewrite m3u path\obj\Debug\Rewrite_m3u_path.Form1.resources
+D:\Google Drive\Drive folder\Visual Studio\Relative m3u rewriter\Rewrite m3u path\Rewrite m3u path\obj\Debug\Rewrite_m3u_path.Properties.Resources.resources
+D:\Google Drive\Drive folder\Visual Studio\Relative m3u rewriter\Rewrite m3u path\Rewrite m3u path\obj\Debug\Rewrite m3u path.csproj.GenerateResource.cache
+D:\Google Drive\Drive folder\Visual Studio\Relative m3u rewriter\Rewrite m3u path\Rewrite m3u path\obj\Debug\Rewrite m3u path.csproj.CoreCompileInputs.cache
+D:\Google Drive\Drive folder\Visual Studio\Relative m3u rewriter\Rewrite m3u path\Rewrite m3u path\obj\Debug\Rewrite m3u path.exe
+D:\Google Drive\Drive folder\Visual Studio\Relative m3u rewriter\Rewrite m3u path\Rewrite m3u path\obj\Debug\Rewrite m3u path.pdb

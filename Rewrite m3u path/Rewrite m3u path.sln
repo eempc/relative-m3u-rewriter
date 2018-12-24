@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rewrite m3u path", "Rewrite m3u path\Rewrite m3u path.csproj", "{BD382577-686B-412E-8D25-E24E6E00BFCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD382577-686B-412E-8D25-E24E6E00BFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD382577-686B-412E-8D25-E24E6E00BFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD382577-686B-412E-8D25-E24E6E00BFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD382577-686B-412E-8D25-E24E6E00BFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9369A7F4-5512-4196-BC39-2C1CD4A4B653}
+	EndGlobalSection
+EndGlobal
